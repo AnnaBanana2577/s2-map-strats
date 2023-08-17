@@ -1,0 +1,26 @@
+{
+  "name": "s2-map-strats",
+  "version": "1.0.0",
+  "description": "Simple POC webapp to make quick map strats for Soldat 2, built with Svelte.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaBanana2577/s2-map-strats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaBanana2577/s2-map-strats/issues"
+  },
+  "homepage": "https://github.com/AnnaBanana2577/s2-map-strats#readme",
+  "dependencies": {
+    "@sveltejs/vite-plugin-svelte": "^2.4.5",
+    "vite": "^4.4.9"
+  }
+}
